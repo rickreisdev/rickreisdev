@@ -1,13 +1,7 @@
 <h1 align="center">Oi👋 Eu sou o Rick!</h1>
-<h3 align="center">I'm looking for to be a Full Stack Developer but currently I focusing on Back-end</h3>
+<h3 align="center">Estou estudando sobre a área de desenvolvimento e programação (back e front end) para, no futuro, me tornar Full-Stack </h3>
 
-- 🌱 I’m currently learning **C++, Python, VBA, C#, HTML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rickreisme](https://github.com/rickreisme)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ricksonreis/](https://www.linkedin.com/in/ricksonreis/)
-
-- ⚡ Fun fact **Python is actually a snake**
+- 🌱 Atualmente aprendendo **C++, Git, C#, Python, HTML, CSS**
 
 <div align="center">
   <a href="https://github.com/rickreisme/">
@@ -22,7 +16,6 @@
   <img align="center" alt="Rick-Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="Rick-Ps" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Rick-Pr" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
  ##
