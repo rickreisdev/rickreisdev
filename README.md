@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋 Eu sou o Rick!</h1>
-<h3 align="center">Estou estudando sobre a área de desenvolvimento e programação (back e front end) para, no futuro, me tornar Full-Stack </h3>
+<h3 align="center">Estou estudando sobre a área de desenvolvimento e programação back-end front-end </h3>
 
 - 🌱 Atualmente aprendendo **C++, Git, C#, Python, HTML, CSS**
 
