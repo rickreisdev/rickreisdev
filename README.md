@@ -2,6 +2,7 @@
 <h3 align="center">Estou estudando para me tornar um dev em programação front-end </h3>
 
 - 🌱 Atualmente aprendendo **HTML, CSS, JavaScript, Flutter**
+- Análise e Desenvolvimento de Sistemas. Fatec Ribeirão Preto
 
 
 
