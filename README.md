@@ -39,3 +39,5 @@
 </div>
   
  ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
+ 
+ <img align="center" alt="Rick" height="400" width="450" src="octocat-1674027650686.png">
