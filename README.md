@@ -16,9 +16,7 @@
 
   ##
   
-  ![](giphy.gif)
-  
-  ![](giphy (1).gif)
+  ![](giphy.gif) ![](giphy1.gif)
   
  ##
   
