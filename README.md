@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋 Eu sou o Rick!</h1>
-<h3 align="center">Estou estudando para me tornar um dev em programação front-end </h3>
+<h3 align="center">Estou estudando para me tornar um desenvolvedor front-end </h3>
 
 - 🌱 Atualmente aprendendo **HTML, CSS, JavaScript, Flutter**
 - Cursando Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto (3/6)
