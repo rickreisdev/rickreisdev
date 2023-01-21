@@ -19,10 +19,6 @@
   
  ##
  
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rickreisme&show_icons=true&count_private=true&hide_border=true&title_color=0CB419&icon_color=0683CF&text_color=0CB419&bg_color=0d1117" alt="Rick Reis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickreisme&layout=compact&hide_border=true&title_color=0CB419&text_color=0CB419&bg_color=0d1117" />
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rickreisme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
