@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor+Front-End;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Dev+in+the+making+:%29)](https://git.io/typing-svg)
 
 - Desenvolvedor Front-End
-- Análise e Desenvolvimento de Sistemas na Fatec Ribeirão Preto (5/6)
+- Análise e Desenvolvimento de Sistemas - Fatec Ribeirão Preto (5/6)
 
 ##
 
