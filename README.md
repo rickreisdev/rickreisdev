@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Dev+in+the+making+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Confira+o+meu+portfólio+no+link+abaixo;Dev+in+the+making+:%29)](https://git.io/typing-svg)
 
 - Desenvolvedor
-- Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto (6/6)
--  <a href="https://portfolio3-pink-one.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ACESSE%20O%20MEU%20PORTF%C3%93LIO-darkgreen" target="_blank" style="width: 200px; height: 30px;"></a>
+- Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto
+-  <a href="https://portfolio-flax-tau-24.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ACESSE%20O%20MEU%20PORTF%C3%93LIO-darkgreen" target="_blank" style="width: 200px; height: 30px;"></a>
 
 ##
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
