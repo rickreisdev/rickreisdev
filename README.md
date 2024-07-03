@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Cursando+Análise+e+Desenvolvimento+de+Sistemas;Dev+in+the+making+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Dev+in+the+making+:%29)](https://git.io/typing-svg)
 
 - Desenvolvedor
 - Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto (6/6)
