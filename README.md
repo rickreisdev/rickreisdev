@@ -41,6 +41,10 @@
  
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisme&show_icons=true&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisme&theme=github_dark)
+
   
  ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
  
