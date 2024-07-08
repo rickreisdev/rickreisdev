@@ -4,7 +4,7 @@
 
 - Desenvolvedor
 - Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto
--  <a href="https://portfolio-flax-tau-24.vercel.app" target="_blank"><img src="https://img.shields.io/badge/ACESSE%20O%20MEU%20PORTF%C3%93LIO-darkgreen" target="_blank" style="width: 200px; height: 30px;"></a>
+-  <a href="https://rickreisme-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Confira%20o%20meu%20portf%C3%B3lio-darkgreen" target="_blank" style="width: 200px; height: 30px;"></a>
 
 ##
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
