@@ -4,14 +4,21 @@
  <img src="./assets/rrLogoNoBG.png" alt="Meu Logo" height="250">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Confira+o+meu+portfólio+no+link+abaixo)](https://git.io/typing-svg)
+<div align = "center">
+ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Confira+o+meu+portfólio+no+link+abaixo)](https://git.io/typing-svg)
+ 
+</div>
 
-- Desenvolvedor
-- Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto
--  <a href="https://rickreisme-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Confira%20o%20meu%20portf%C3%B3lio-darkgreen" target="_blank" style="width: 200px; height: 30px;"></a>
+<h3 align="center">Desenvolvedor | Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia de Ribeirão Preto</h3>
+  
+  <div align="center">
+   <a href="https://rickreisme-portfolio.vercel.app" target="_blank" style="text-decoration: none;" title="Confira o meu portfólio"><img src="./assets/badgeRickreisme.png" target="_blank" width="140"></a>     </div>
 
 ##
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<div align = "center">
+
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -29,31 +36,39 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rickreisme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
- <div>
-  <h3 align="left">Minhas redes:</h3>
+ <div align="center">
+  
+  <h3 align="center">Minhas redes:</h3>
  <a href="https://linkedin.com/in/ricksonreis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "https://www.behance.net/rickreis1"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rickreisme/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   
-##
- 
-</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisme&show_icons=true&theme=dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisme&theme=github_dark)
-
+  </div>
   
- ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
+##
+
+ <div align="center">
+  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisme&show_icons=true&theme=dark)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisme&theme=github_dark)
+  
+  <h3 > Contagem de visitas:</h3>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
+
+  </div>
 
  <div align = "center">
- <img src="./assets/logotipoRickreismeNoBG.png" alt="Meu Logo" width="400">
+ <img src="./assets/rickreismeLogo.png" alt="Meu Logo" width="400">
  </div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=footer"/>
