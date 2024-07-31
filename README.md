@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=header"/>
 
+<div align = "center">
+ <img src="./assets/rrLogoNoBG.png" alt="Meu Logo" height="250">
+</div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Confira+o+meu+portfólio+no+link+abaixo)](https://git.io/typing-svg)
 
 - Desenvolvedor
@@ -47,5 +51,9 @@
 
   
  ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
+
+ <div align = "center">
+ <img src="./assets/logotipoRickreismeNoBG.png" alt="Meu Logo" width="400">
+ </div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=footer"/>
