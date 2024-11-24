@@ -55,7 +55,7 @@
 <div></div>
  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rickreisme&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rickreisdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
   
  <div align="center">
@@ -71,13 +71,13 @@
 
  <div align="center">
   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisme&show_icons=true&theme=dark)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisdev&show_icons=true&theme=dark)
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisme&theme=github_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisdev&theme=github_dark)
   
   <h3 > Contagem de visitas:</h3>
   
-  ![Visitor Count](https://profile-counter.glitch.me/rickreisme/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/rickreisdev/count.svg)
 
   </div>
 
