@@ -82,6 +82,6 @@
   </div>
 
  <div align = "center">
- <img src="./assets/rickreismeLogo.png" alt="Meu Logo" width="300">
+ <img src="./assets/rickreisdevLogo.png" alt="Meu Logo" width="300">
  </div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=footer"/>
