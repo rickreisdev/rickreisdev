@@ -12,7 +12,7 @@
 <h3 align="center">Desenvolvedor | React.js | PostgreSQL | TypeScript | Node.js | PHP</h3>
   
   <div align="center">
-   <a href="https://rickreisme.vercel.app" target="_blank" style="text-decoration: none;" title="Confira o meu portfólio"><img src="./assets/badgeRickreisme.png" target="_blank" width="140"></a>     </div>
+   <a href="https://rickreis.dev.br" target="_blank" style="text-decoration: none;" title="Confira o meu portfólio"><img src="./assets/badgeRickreisme.png" target="_blank" width="140"></a>     </div>
 
 ##
 
