@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03AA39&height=120&section=header"/>
 <div align = "center">
  <img src="./assets/logo-rr-cachos.svg" alt="Meu Logo" height="250">
 </div>
@@ -85,4 +85,4 @@
  <div align = "center">
  <img src="./assets/logo-rickreis.svg" alt="Meu Logo" width="500">
  </div>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CB419&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03AA39&height=120&section=footer"/>
