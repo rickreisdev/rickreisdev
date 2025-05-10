@@ -7,7 +7,7 @@
 
 <!-- <h3 align="center">Desenvolvedor Full Stack | React | PHP | SQL | TypeScript | Node.js </h3> -->
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor+Full+Stack;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Confira+o+meu+portfólio+no+link+abaixo⬇)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0CB419&size=35&center=true&vCenter=true&width=1000&lines=Oi,👋+Eu+sou+o+Rick!;Desenvolvedor+Full+Stack;Graduado+em+Análise+e+Desenvolvimento+de+Sistemas;Pós-graduando+em+Engenharia+de+Software;Confira+o+meu+portfólio+no+link+abaixo⬇)](https://git.io/typing-svg)
  
 </div>
   
