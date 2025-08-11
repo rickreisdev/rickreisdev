@@ -75,10 +75,6 @@
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickreisdev&show_icons=true&theme=dark)
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rickreisdev&theme=github_dark)
-  
-  <h3 > Contagem de visitas:</h3>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/rickreisdev/count.svg)
 
   </div>
 
