@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03AA39&height=120&section=header"/>
 <div align = "center">
- <img src="./assets/logo-rr-cachos.svg" alt="Meu Logo" height="250">
+ <img src="./assets/rr-cachos-logo.svg" alt="Meu Logo" height="250">
 </div>
 
 <div align = "center">
@@ -36,7 +36,7 @@
  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="40" title="PostgreSQL">
 <!--  <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" height="40" title="Oracle Database"> -->
 <!--  <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" height="40" title="SQL Server"> -->
- <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="40" title="Flutter">
+ <!-- <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="40" title="Flutter"> -->
  <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="40" title="Firebase">
  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" title="Python">
 <!--  <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="40" title="C++"> -->
@@ -79,6 +79,6 @@
   </div>
 
  <div align = "center">
- <img src="./assets/logo-rickreis.svg" alt="Meu Logo" width="500">
+ <img src="./assets/rickreis-logo.svg" alt="Meu Logo" width="500">
  </div>
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=03AA39&height=120&section=footer"/>
