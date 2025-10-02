@@ -12,7 +12,7 @@
 </div>
   
   <div align="center">
-   <a href="https://rickreis.dev.br" target="_blank" style="text-decoration: none;" title="Confira o meu portfólio"><img src="./assets/badgeRickreis.png" target="_blank" width="140"></a>     </div>
+   <a href="https://rickreis.com.br/dev" target="_blank" style="text-decoration: none;" title="Confira o meu portfólio"><img src="./assets/badgeRickreis.png" target="_blank" width="140"></a>     </div>
 
 ##
 
